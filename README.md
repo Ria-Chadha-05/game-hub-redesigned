@@ -11,7 +11,7 @@
 
 [Overview](#-overview) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Project Structure](#-project-structure) · [Running Locally](#-running-locally) · [Adding a Game](#-adding-a-game) · [Deployment](#-deployment)
 
-**🔗 Live Site:** [[gamehub](https://gamehub-by-ria.vercel.app/)](https://game-hub-redesigned.vercel.app/)
+**🔗 Live Site:** [(https://gamehub-by-ria.vercel.app/)](https://game-hub-redesigned.vercel.app/)
 </div>
 
 ---
